@@ -123,14 +123,15 @@ h2 {
   margin-left: 0;
   padding: 10px;
   border-radius: 15px;
-  width: 300px;
+  width: 350px;
 }
 
 .projects ul li img {
   border-radius: 15px;
   margin-bottom: 17px;
-  width: 250px;
+  width: 100%;
 }
+
 
 /* SOCIALS */
 .socials-wrapper {
